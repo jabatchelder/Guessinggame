@@ -43,7 +43,4 @@ fi
 if [[ $currentans -eq $numfiles ]] 
 then
 correctans
-fi 
-
-
-
+fi
